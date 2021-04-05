@@ -1,13 +1,3 @@
-招生：
-长期招收博士和硕士。同时招收本科实习生。招生对象为数学，计算机科学与技术，软件工程，自动化等相关专业学生。
-
-实验室在机器学习顶级会议NeurIPS, CVPR, IJCAI等发表多篇论文，研究方向：深度学习算法，深度学习安全性，因果推理，以及深度学习的应用。我们致力于从理论和算法上解决限制机器学习算法在实际应用中的根本问题，突破目前深度学习被称为现代炼金术的困境。实验室长期与剑桥大学，北京大学等机构保持长期合作关系。优秀同学有机会推荐海外顶级高校学习。
-
-申请条件：1)强烈的科学探索精神 2)快速迭代实现的编程能力 3)了解机器学习的基本知识 4)较好的英文阅读和写作能力 5)数学基础
- 
-欢迎邮件咨询
-
-
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -17,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+招生：
+长期招收博士和硕士。同时招收本科实习生。招生对象为数学，计算机科学与技术，软件工程，自动化等相关专业学生。
+
+实验室在机器学习顶级会议NeurIPS, CVPR, IJCAI等发表多篇论文，研究方向：深度学习算法，深度学习安全性，因果推理，以及深度学习的应用。我们致力于从理论和算法上解决限制机器学习算法在实际应用中的根本问题，突破目前深度学习被称为现代炼金术的困境。实验室长期与剑桥大学，北京大学等机构保持长期合作关系。优秀同学有机会推荐海外顶级高校学习。
+
+申请条件：1)强烈的科学探索精神 2)快速迭代实现的编程能力 3)了解机器学习的基本知识 4)较好的英文阅读和写作能力 5)数学基础
+ 
+欢迎邮件咨询
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
