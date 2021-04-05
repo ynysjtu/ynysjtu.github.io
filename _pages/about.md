@@ -6,12 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
 ------
-* I obtained PhD from University of Cambridge and master from Tsinghua University. 
-* My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. 
-* Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, AAAI, IJCAI, etc. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems.
+I obtained PhD from University of Cambridge and master from Tsinghua University. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. I also serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, AAAI, IJCAI, etc. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems.
 
 # Selected Publications
 ------
