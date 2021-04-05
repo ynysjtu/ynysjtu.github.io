@@ -19,6 +19,27 @@ redirect_from:
 # About Me
 * My current research interests include but not limited to deep learning system safety, Bayesian deep learning, causal inference, and computer graphics.
 
+# Selected Publications
+Nanyang Ye, Zhanxing Zhu. Bayesian Adversarial Learning. Advances in Neural Information Processing Systems 2018 (NeurIPS 2018).
+
+Nanyang Ye, Zhanxing Zhu, Rafal K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)
+
+Nanyang Ye, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021).
+
+Nanyang Ye, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. Amata: An Annealing Mechanism for Adversarial Training Acceleration. AAAI Conference on Artificial Intelligence (AAAI 2021)
+
+Nanyang Ye, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. International Joint Conference on Artificial Intelligence 2018 (IJCAI 2019).
+
+Nanyang Ye, Krzysztof Wolski, Rafał K. Mantiuk. Predicting visible image differences under varying display brightness and viewing distance. IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019).
+
+Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, Nanyang Ye*, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. AAAI Conference on Artificial Intelligence (AAAI 2021). (*Corresponding author)
+
+Krzysztof Wolski#, Daniele Giunchi#, Nanyang Ye#, Piotr Didyk, Karol Myszkowski, Radosław Mantiuk, Hans-PeterSeidel, Anthony Steed, Rafał K. Mantiuk. Dataset and metrics for predicting local visible differences. ACM Transaction on Graphics (TOG 2018) (The first three authors contribute equally to the paper). vol 37, issue 5.
+
+Nanyang Ye, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. Accepted at Picture Coding Symposium 2019 (PCS 2019). Top Conference in Image Compression.
+
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
