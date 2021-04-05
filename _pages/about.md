@@ -25,15 +25,15 @@ redirect_from:
 
 **Nanyang Ye**, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. *International Joint Conference on Artificial Intelligence 2018 (IJCAI 2019)*.
 
-**Nanyang Ye**, Krzysztof Wolski, Rafał K. Mantiuk. Predicting visible image differences under varying display brightness and viewing distance. *IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)*.
+**Nanyang Ye**, Krzysztof Wolski, Rafał K. Mantiuk. Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance. *IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)*.
 
 Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
-Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkowski, Radosław Mantiuk, Hans-PeterSeidel, Anthony Steed, Rafał K. Mantiuk. Dataset and metrics for predicting local visible differences. *ACM Transaction on Graphics (TOG 2018)* (The first three authors contribute equally to the paper). vol 37, issue 5.
+Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkowski, Radosław Mantiuk, Hans-PeterSeidel, Anthony Steed, Rafał K. Mantiuk. Dataset and Metrics for Predicting Local Visible Differences. *ACM Transaction on Graphics (TOG 2018)* (The first three authors contribute equally to the paper). vol 37, issue 5.
 
 **Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. *Picture Coding Symposium 2019 (PCS 2019)*. Top Conference in Image Compression.
 
-Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The effect of display brightness and viewing distance: a dataset for visually lossless image compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
+Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Brightness and Viewing Distance: A Dataset for Visually Lossless Image Compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
 # Recruitment
 ------
