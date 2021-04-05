@@ -33,7 +33,7 @@ Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Br
 
 # Recruitment
 ------
-We always welcome self-motivated students including undergraduate interns, graduate applicants to apply for positions in our lab from various backgrounds, such as mathematics, computer science, software engineering, and automation etc. Before you came, we hope you already had some basic knowledge of machine learning and machine learning development framework, such as PyTorch or Tensorflow. 
+We always welcome self-motivated students including undergraduate interns, graduate applicants to apply for positions in our lab from various backgrounds, such as mathematics, computer science, software engineering, and automation etc. Before you come, we hope you already had some basic knowledge of machine learning and machine learning development framework, such as PyTorch or Tensorflow. 
 
 Welcome to send me e-mails for more information.
 
