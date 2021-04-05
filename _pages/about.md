@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 # About Me
 ------
 * I obtained PhD from University of Cambridge and master from Tsinghua University. 
@@ -34,13 +35,14 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 Aliaksei Mikhailiuk, **Nanyang Ye**, Rafal Mantiuk. The effect of display brightness and viewing distance: a dataset for visually lossless image compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
-#Recruitment
-
+# Recruitment
+------
 We always welcome self-motivated students including undergraduate interns, graduate applicants to apply for positions in our lab from various backgrounds, such as mathematics, computer science, software engineering, and automation etc. Before you came, we hope you already had some basic knowledge of machine learning and machine learning development framework, such as PyTorch or Tensorflow. 
 
 Welcome to send me e-mails for more information.
 
-#招生：
+# 招生：
+------
 长期招收博士和硕士。同时招收本科实习生。招生对象为数学，计算机科学与技术，软件工程，自动化等相关专业学生。
 
 实验室在机器学习顶级会议NeurIPS, CVPR, IJCAI等发表多篇论文，研究方向：深度学习算法，深度学习安全性，因果推理，以及深度学习的应用。我们致力于从理论和算法上解决限制机器学习算法在实际应用中的根本问题，突破目前深度学习被称为现代炼金术的困境。实验室长期与剑桥大学，北京大学等机构保持长期合作关系。优秀同学有机会推荐海外顶级高校学习。
