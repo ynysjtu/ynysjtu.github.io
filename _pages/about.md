@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
 ------
 **Nanyang Ye**, Zhanxing Zhu. Bayesian Adversarial Learning. *Advances in Neural Information Processing Systems 2018 (NeurIPS 2018)*.
 
-**Nanyang Ye**, Zhanxing Zhu, Rafal K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
+**Nanyang Ye**, Zhanxing Zhu, Rafał K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
 
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
 
@@ -33,7 +33,7 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 **Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. *Picture Coding Symposium 2019 (PCS 2019)*. Top Conference in Image Compression.
 
-Aliaksei Mikhailiuk, **Nanyang Ye**, Rafal Mantiuk. The effect of display brightness and viewing distance: a dataset for visually lossless image compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
+Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The effect of display brightness and viewing distance: a dataset for visually lossless image compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
 # Recruitment
 ------
