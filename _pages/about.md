@@ -28,6 +28,8 @@ Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, G
 
 **Nanyang Ye**, Krzysztof Wolski, Rafał K. Mantiuk. Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance. *IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)*.
 
+**Nanyang Ye**, Jingbiao Mei, Zhicheng Fang, Yuwen Zhang, Ziqing Zhang, Huaying Wu, Xiaoyao Liang. BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture. *Design Automation Conference 2021 (DAC 2021)*.
+
 Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkowski, Radosław Mantiuk, Hans-PeterSeidel, Anthony Steed, Rafał K. Mantiuk. Dataset and Metrics for Predicting Local Visible Differences. *ACM Transaction on Graphics (TOG 2018)* (The first three authors contribute equally to the paper). vol 37, issue 5.
 
 **Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. *Picture Coding Symposium 2019 (PCS 2019)*. Top Conference in Image Compression.
