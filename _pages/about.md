@@ -34,6 +34,11 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Brightness and Viewing Distance: A Dataset for Visually Lossless Image Compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
+**Nanyang Ye**, Xiaoming Tao, Linhao Dong, Ning Ge. Mouse Calibration Aided Real-time Gaze Estimation Based on Boost Gaussian Bayesian Learning. International Conference on Image Processing 2016 (ICIP 2016). pp 2797-2801.
+
+**Nanyang Ye**, Linhao Dong, Xiaoming Tao, Ning Ge. Efficient Multi-Cell Clustering for Coordinated Multi-Point Transmission with Blossom Tree Algorithm. IEEE Vehicular Technology Conference 2015 (VTC 2015). pp 1-4.
+
+
 # Recruitment
 ------
 We always welcome self-motivated students including undergraduate interns, graduate applicants to apply for positions in our lab from various backgrounds, such as mathematics, computer science, software engineering, and automation etc. Before you come, we hope you already had some basic knowledge of machine learning and machine learning development framework, such as PyTorch or Tensorflow. 
