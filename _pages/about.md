@@ -13,6 +13,8 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 # Selected Publications
 ------
+Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
+
 **Nanyang Ye**, Zhanxing Zhu. Bayesian Adversarial Learning. *Advances in Neural Information Processing Systems 2018 (NeurIPS 2018)*.
 
 **Nanyang Ye**, Zhanxing Zhu, Rafał K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
@@ -24,8 +26,6 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 **Nanyang Ye**, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. *International Joint Conference on Artificial Intelligence 2018 (IJCAI 2019)*.
 
 **Nanyang Ye**, Krzysztof Wolski, Rafał K. Mantiuk. Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance. *IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)*.
-
-Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
 Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkowski, Radosław Mantiuk, Hans-PeterSeidel, Anthony Steed, Rafał K. Mantiuk. Dataset and Metrics for Predicting Local Visible Differences. *ACM Transaction on Graphics (TOG 2018)* (The first three authors contribute equally to the paper). vol 37, issue 5.
 
