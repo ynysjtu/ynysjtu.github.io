@@ -13,13 +13,14 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 # Selected Publications
 ------
-Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
 **Nanyang Ye**, Zhanxing Zhu. Bayesian Adversarial Learning. *Advances in Neural Information Processing Systems 2018 (NeurIPS 2018)*.
 
 **Nanyang Ye**, Zhanxing Zhu, Rafał K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
 
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
+
+Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. *Amata: An Annealing Mechanism for Adversarial Training Acceleration. AAAI Conference on Artificial Intelligence (AAAI 2021)*.
 
