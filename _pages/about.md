@@ -34,11 +34,14 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 **Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. *Picture Coding Symposium 2019 (PCS 2019)*. Top Conference in Image Compression.
 
+**Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Trained Perceptual Transform for Quality Assessment of High Dynamic Range Images and Video. *International Conference on Image Processing 2016 (ICIP 2018)*. pp. 1718-1722.
+
+
 Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Brightness and Viewing Distance: A Dataset for Visually Lossless Image Compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
-**Nanyang Ye**, Xiaoming Tao, Linhao Dong, Ning Ge. Mouse Calibration Aided Real-time Gaze Estimation Based on Boost Gaussian Bayesian Learning. International Conference on Image Processing 2016 (ICIP 2016). pp 2797-2801.
+**Nanyang Ye**, Xiaoming Tao, Linhao Dong, Ning Ge. Mouse Calibration Aided Real-time Gaze Estimation Based on Boost Gaussian Bayesian Learning. *International Conference on Image Processing 2016 (ICIP 2016)*. pp. 2797-2801.
 
-**Nanyang Ye**, Linhao Dong, Xiaoming Tao, Ning Ge. Efficient Multi-Cell Clustering for Coordinated Multi-Point Transmission with Blossom Tree Algorithm. IEEE Vehicular Technology Conference 2015 (VTC 2015). pp 1-4.
+**Nanyang Ye**, Linhao Dong, Xiaoming Tao, Ning Ge. Efficient Multi-Cell Clustering for Coordinated Multi-Point Transmission with Blossom Tree Algorithm. *IEEE Vehicular Technology Conference 2015 (VTC 2015)*.pp. 1-4.
 
 
 # Recruitment
