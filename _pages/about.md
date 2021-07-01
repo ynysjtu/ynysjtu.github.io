@@ -39,6 +39,8 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Brightness and Viewing Distance: A Dataset for Visually Lossless Image Compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
 
+Xu Cao, Zijie Chen, Bolin Lai, Yuxuan Wang, Yu Chen, Zhengqing Cao, Zhilin Yang, **Nanyang Ye**, Junbo Zhao, Xiao-Yun Zhou, Peng Qi. VeniBot: Towards Autonomous Venipuncture with Automatic Puncture Area and Angle Regression from NIR Images. *International Conference on Intelligent Robots and Systems 2021 (IROS 2021)*.
+
 **Nanyang Ye**, Xiaoming Tao, Linhao Dong, Ning Ge. Mouse Calibration Aided Real-time Gaze Estimation Based on Boost Gaussian Bayesian Learning. *International Conference on Image Processing 2016 (ICIP 2016)*. pp. 2797-2801.
 
 **Nanyang Ye**, Linhao Dong, Xiaoming Tao, Ning Ge. Efficient Multi-Cell Clustering for Coordinated Multi-Point Transmission with Blossom Tree Algorithm. *IEEE Vehicular Technology Conference 2015 (VTC 2015)*.pp. 1-4.
