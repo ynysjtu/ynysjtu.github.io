@@ -26,7 +26,7 @@ Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zheng
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. *Amata: An Annealing Mechanism for Adversarial Training Acceleration. AAAI Conference on Artificial Intelligence (AAAI 2021)*.
 
-**Nanyang Ye**, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. *International Joint Conference on Artificial Intelligence 2018 (IJCAI 2019)*.
+**Nanyang Ye**, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. *International Joint Conference on Artificial Intelligence 2018 (IJCAI 2018)*.
 
 **Nanyang Ye**, Krzysztof Wolski, Rafał K. Mantiuk. Predicting Visible Image Differences Under Varying Display Brightness and Viewing Distance. *IEEE Conference on Computer Vision and Pattern Recognition 2019 (CVPR 2019)*.
 
@@ -36,7 +36,7 @@ Krzysztof Wolski#, Daniele Giunchi#, **Nanyang Ye**#, Piotr Didyk, Karol Myszkow
 
 **Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Visibility Metric for Visually Lossless Image Compression. *Picture Coding Symposium 2019 (PCS 2019)*. Top Conference in Image Compression.
 
-**Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Trained Perceptual Transform for Quality Assessment of High Dynamic Range Images and Video. *International Conference on Image Processing 2016 (ICIP 2018)*. pp. 1718-1722.
+**Nanyang Ye**, María Pérez-Ortiz, Rafał K. Mantiuk. Trained Perceptual Transform for Quality Assessment of High Dynamic Range Images and Video. *International Conference on Image Processing 2018 (ICIP 2018)*. pp. 1718-1722.
 
 
 Aliaksei Mikhailiuk, **Nanyang Ye**, Rafał K. Mantiuk. The Effect of Display Brightness and Viewing Distance: A Dataset for Visually Lossless Image Compression. *Human Vision and Electronic Imaging 2021 (HVEI 2021)*.
