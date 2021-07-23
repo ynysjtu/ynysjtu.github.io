@@ -22,7 +22,7 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
-Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zhenguo Li. NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization. *International Conference on Computer Vision (ICCV)*. (\* Corresponding author) 
+Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zhenguo Li. NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization. *International Conference on Computer Vision 2021 (ICCV 2021)*. (\* Corresponding author) 
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. *Amata: An Annealing Mechanism for Adversarial Training Acceleration. AAAI Conference on Artificial Intelligence (AAAI 2021)*.
 
