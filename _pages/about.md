@@ -14,7 +14,7 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 # Selected Publications
 ------
 
-**Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. An Annealing Mechanism for Adversarial Training. *IEEE Transaction on Neural Network and Learning System*.
+**Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. An Annealing Mechanism for Adversarial Training. *IEEE Transaction on Neural Network and Learning System 2021*.
 
 **Nanyang Ye**, Zhanxing Zhu. Bayesian Adversarial Learning. *Advances in Neural Information Processing Systems 2018 (NeurIPS 2018)*.
 
