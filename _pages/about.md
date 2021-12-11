@@ -26,9 +26,9 @@ Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, G
 
 Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zhenguo Li. NAS-OoD: Neural Architecture Search for Out-of-Distribution Generalization. *International Conference on Computer Vision 2021 (ICCV 2021)*. (\* Corresponding author) 
 
-Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, **Nanyang Ye\***. OoDHDR-codec: Out-of-Distribution Generalization for HDR Image Compression. *AAAI Conference on Artificial Intelligence (AAAI 2022)*.
+Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, **Nanyang Ye\***. OoDHDR-codec: Out-of-Distribution Generalization for HDR Image Compression. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*.
 
-Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang\*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. *AAAI Conference on Artificial Intelligence (AAAI 2022)*.
+Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang\*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*.
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. *Amata: An Annealing Mechanism for Adversarial Training Acceleration. *AAAI Conference on Artificial Intelligence (AAAI 2021)*.
 
