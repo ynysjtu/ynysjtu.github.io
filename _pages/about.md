@@ -30,7 +30,7 @@ Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, **Nanyang Ye\***. OoDHDR-codec: Ou
 
 Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang\*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*.
 
-**Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. *Amata: An Annealing Mechanism for Adversarial Training Acceleration. *AAAI Conference on Artificial Intelligence (AAAI 2021)*.
+**Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. Amata: An Annealing Mechanism for Adversarial Training Acceleration. *AAAI Conference on Artificial Intelligence (AAAI 2021)*.
 
 **Nanyang Ye**, Zhanxing Zhu. Stochastic Fractional Hamiltonian Monte Carlo. *International Joint Conference on Artificial Intelligence 2018 (IJCAI 2018)*.
 
