@@ -71,12 +71,3 @@ Welcome to send me e-mails for more information.
 欢迎邮件咨询
 PS:请本校和外校有意愿保研同学提前联系，大二即可开始进入实验室实习。
 
-# Alumni
--------
-Thank you very much for your contribution during your stay in our lab!  Information to be released soon. It is expected that many students will get offers from top universities.
-
-# Words
--------
-The passions, simple but overwhelmingly strong, have governed our lives. ---*Bertrand Russell
-
-
