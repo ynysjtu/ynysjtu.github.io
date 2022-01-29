@@ -28,7 +28,7 @@ Haoyue Bai, Fengwei Zhou, Lanqing Hong, **Nanyang Ye\***, S.-H. Gary Chan, Zheng
 
 Linfeng Cao, Aofan Jiang, Wei Li, Huaying Wu, **Nanyang Ye\***. OoDHDR-codec: Out-of-Distribution Generalization for HDR Image Compression. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*. (\* Corresponding author) 
 
-Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang\*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*. (\* Corresponding author) 
+Runpeng Yu, Hong Zhu, Kaican Li, Lanqing Hong, Rui Zhang\*, **Nanyang Ye\***, Shao-Lun Huang, Xiuqiang He. Regularization Penalty Optimization for Addressing Data Quality Variance in OoD Algorithms. *AAAI Conference on Artificial Intelligence 2022 (AAAI 2022)*. (\* Corresponding author) 
 
 **Nanyang Ye**, Qianxiao Li, Xiao-Yun Zhou, Zhanxing Zhu. Amata: An Annealing Mechanism for Adversarial Training Acceleration. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author) 
 
