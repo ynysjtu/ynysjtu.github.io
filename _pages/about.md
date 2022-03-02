@@ -22,7 +22,7 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
 
-**Nanyang Ye#**, Kaican Li#, Lanqing Hong, Haoyue Bai, Yiting Chen, Fengwei Zhou, Zhenguo Li, Jun Zhu. OoD-Bench: Benchmarking and Understanding Out-of-Distribution Generalization Datasets and Algorithms. *IEEE Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)*.
+**Nanyang Ye#**, Kaican Li#, Haoyue Bai, Runpeng Yu, Lanqing Hong, Fengwei Zhou, Zhenguo Li, Jun Zhu. OoD-Bench: Benchmarking and Understanding Out-of-Distribution Generalization Datasets and Algorithms. *IEEE Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)*.
 
 Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
