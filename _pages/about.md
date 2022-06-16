@@ -74,3 +74,8 @@ Welcome to send me e-mails for more information.
 欢迎邮件咨询
 PS:请本校和外校有意愿保研同学提前联系，大二即可开始进入实验室实习。
 
+# Alumni去向:
+------
+排名不分先后
+
+Mei (University of Cambridge, full scholarship), Bai (University of Wisconsin Madison, full scholarship), Cao (Ohio State University, full scholarship), Yu(National University of Singapore, full scholarship),...., we are expecting more good news to come this year !
