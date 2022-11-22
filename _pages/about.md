@@ -20,7 +20,7 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 **Nanyang Ye**, Zhanxing Zhu, Rafał K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
 
-Lin Zhu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. *AAAI Conference on Artificial Intelligence 2023 (AAAI 2023)*.
+Lin Zhu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. *AAAI Conference on Artificial Intelligence 2023 (AAAI 2023)*.  (\* Corresponding author) 
 
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
 
