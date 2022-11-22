@@ -20,9 +20,13 @@ I obtained PhD from University of Cambridge. My current research interests inclu
 
 **Nanyang Ye**, Zhanxing Zhu, Rafał K. Mantiuk. Langevin Dynamics with Continuous Tempering for Training Deep Neural Networks. *Advances in Neural Information Processing Systems 2017 (NeurIPS 2017)*.
 
+Lin Zhu, Xinbing Wang, Chenghu Zhou, **Nanyang Ye\***. Bayesian Cross-modal Alignment Learning for Few-Shot Out-of-Distribution Generalization. *AAAI Conference on Artificial Intelligence 2023 (AAAI 2023)*.
+
 **Nanyang Ye**, Jingxuan Tang, Huayu Deng, Xiao-Yun Zhou, Qianxiao Li, Zhenguo Li, Guang-Zhong Yang, Zhanxing Zhu. Adversarial Invariant Learning. *IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR 2021)*.
 
 **Nanyang Ye#**, Kaican Li#, Haoyue Bai, Runpeng Yu, Lanqing Hong, Fengwei Zhou, Zhenguo Li, Jun Zhu. OoD-Bench: Benchmarking and Understanding Out-of-Distribution Generalization Datasets and Algorithms. *IEEE Conference on Computer Vision and Pattern Recognition 2022 (CVPR 2022)*.
+
+**Nanyang Ye**, Lin Zhu, Jia Wang, Zhaoyu Zeng, Jiayao Shao, Chensheng Peng, Bikang Pan, Kaican Li, Jun Zhu. Certifiable Out-of-Distribution Generalization. *AAAI Conference on Artificial Intelligence 2023 (AAAI 2023)*.
 
 Haoyue Bai, Rui Sun, Lanqing Hong, Fengwei Zhou, **Nanyang Ye\***, Han-Jia Ye, Gary Chan, Zhenguo Li. DecAug: Out-of-Distribution Generalization via Decomposed Feature Representation and Semantic Augmentation. *AAAI Conference on Artificial Intelligence (AAAI 2021)*. (\* Corresponding author)
 
