@@ -10,7 +10,7 @@ redirect_from:
 I obtained PhD from University of Cambridge. My current research interests include but not limited to Bayesian deep learning, causal inference, design and application of deep learning systems. We are devoted to solve the fundamental challenge of the generalization ability of machine learning systems. I serve as programme committee members and reviewers for several key machine learning journals and conferences. Our lab has published several papers on top machine learning and artificial intelligence conferences, such as NeurIPS, CVPR, ICCV, AAAI, IJCAI, etc. 
 
 **Contact:** ynylincoln AT sjtu DOT edu DOT cn
-[2023年入学招生开始，请尽早联系，开始实习。有2023年入学计算机博士、计算机学术和工程硕士名额，DDL临近，请尽快联系。]
+[2024年入学招生开始，请尽早联系，开始实习。有2024年入学电子系工程硕士名额，保研渠道按规定应需要参加保研夏令营博士，DDL临近，请尽快联系。]
 # Selected Publications
 ------
 
